@@ -100,6 +100,9 @@ To remove the software, simply delete:
 
 ## 📌 Technical Note
 **PasswordBox Pro is designed with privacy in mind:**
+* **Offline**: Works entirely without an internet connection.
+* **No Data Sharing**: It does not send data to any external server.
+* **No Cloud**: Your data is stored strictly locally using strong encryption.
 
 
 ------------------------------------------------------------------------
@@ -207,10 +210,8 @@ A szoftver eltávolításához egyszerűen töröld a következőket:
 ---
 
 ## 📌 Technikai megjegyzés
-**A PasswordBox a privát szférát szem előtt tartva készült:**
+**A PasswordBox Pro a privát szférát szem előtt tartva készült:**
 * **Offline**: Teljesen internetkapcsolat nélkül működik.
 * **Nincs adatmegosztás**: Nem küld adatokat semmilyen külső szerverre.
 * **Nincs felhő**: Az adataid kizárólag helyben, erős titkosítással vannak tárolva.
-* **Offline**: Works entirely without an internet connection.
-* **No Data Sharing**: It does not send data to any external server.
-* **No Cloud**: Your data is stored strictly locally using strong encryption.
+
